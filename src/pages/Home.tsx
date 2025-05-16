@@ -55,7 +55,7 @@ export default function Home() {
             </div>
           </div>
           <div className="text-center">
-            <h1 className="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl">
+            <h1 className="pt-5 text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl">
               Otimizando o seu tempo. Automatizando processos!
             </h1>
             <p className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8">
@@ -130,7 +130,7 @@ export default function Home() {
       </div>
 
       <div className="bg-white">
-        <div className="mx-auto max-w-7xl py-24 sm:px-6 sm:py-32 lg:px-8">
+        <div className="mx-auto max-w-7xl py-24 pb-2.5 sm:px-6 sm:py-32 lg:px-8">
           <div className="relative isolate overflow-hidden bg-gray-900 px-6 pt-16 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-24 lg:pt-0">
             <svg
               viewBox="0 0 1024 1024"
