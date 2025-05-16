@@ -49,7 +49,7 @@ export default function Portfolio() {
       id="portfolio"
       className="portfolio mx-auto flex h-full min-h-screen w-full flex-col items-center justify-center"
     >
-      <div className="m-auto mt-40 grid w-full grid-cols-2 gap-x-8 gap-y-10 p-5 lg:max-w-none lg:grid-cols-3 lg:gap-y-16">
+      <div className="m-auto mt-40 grid w-full grid-cols-1 gap-x-8 gap-y-10 p-5 lg:max-w-none lg:grid-cols-3 lg:gap-y-16">
         {portfolio.map((v, i) => {
           return (
             <div
