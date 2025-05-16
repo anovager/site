@@ -10,7 +10,7 @@ const navigation = [
 
 export default function Footer() {
   return (
-    <footer className="flex h-full w-full flex-col items-center bg-gray-900 p-5 text-gray-400">
+    <footer className="flex h-full w-full flex-col items-center bg-gray-900 p-5 text-gray-400 w-full">
       <div>
         <img src={Logo} alt="Anovager logomarca" className="w-15" />
       </div>
